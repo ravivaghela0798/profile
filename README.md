@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development(Java, Angular, React, Python)**
 
-- 💬 Ask me about **Django , Python and Machine Learning**
+- 💬 Ask me about **Java , Spring boot, JPA/Hibernate, Angular**
 
 - 📫 How to reach me **vaghelarv600@gmail.com**
 
