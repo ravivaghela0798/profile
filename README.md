@@ -6,6 +6,10 @@
 - 💬 Ask me about **Java, Spring boot, JPA/Hibernate, Angular**
 
 - 📫 How to reach me **vaghelarv600@gmail.com**
+  
+- <a href="https://ravivaghela0798.github.io/portfolio.github.io/" target="blank">
+   Check out my portfolio profile
+  </a>
 
 - ⚡ Fun fact **I love to code at mid-night**
 
@@ -19,11 +23,6 @@
   <a href="https://linkedin.com/in/ravi-vaghela-368112185" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="Ravi Vaghela" height="30" width="40" />
-  </a>
-  <a href="https://ravivaghela0798.github.io/portfolio.github.io/#portfolio" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" 
          alt="Ravi Vaghela" height="30" width="40" />
   </a>
 </p>
