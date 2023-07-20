@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vaghelarv600@gmail.com**
   
-- <a href="https://ravivaghela0798.github.io/portfolio.github.io/" target="blank">
+- <a href="https://ravivaghela0798.github.io/portfolio.github.io/" target="_blank">
    Check out my portfolio profile
   </a>
 
