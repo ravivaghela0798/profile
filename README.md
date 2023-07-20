@@ -21,7 +21,7 @@
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="Ravi Vaghela" height="30" width="40" />
   </a>
-  <a href="[https://twitter.com/ravivaghela1007](https://ravivaghela0798.github.io/portfolio.github.io/#portfolio)" target="blank">
+  <a href="https://ravivaghela0798.github.io/portfolio.github.io/#portfolio" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" 
          alt="Ravi Vaghela" height="30" width="40" />
