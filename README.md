@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vaghelarv600@gmail.com**
   
-- <a href="https://ravivaghela0798.github.io/portfolio.github.io/" target="blank">
+- <a href="https://ravivaghela0798.github.io/portfolio.github.io/" target="_blank">
    Check out my portfolio profile
   </a>
 
@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ravivaghela1007" target="blank">
+  <a href="https://twitter.com/ravivaghela1007" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
          alt="Ravi Vaghela" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ravi-vaghela-368112185" target="blank">
+  <a href="https://linkedin.com/in/ravi-vaghela-368112185" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="Ravi Vaghela" height="30" width="40" />
